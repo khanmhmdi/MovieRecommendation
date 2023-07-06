@@ -1,7 +1,8 @@
 # MovieRecommendation
 # Movie Recommendation🍿 System
 
-# Hasan Roknabadi-99222042  -  MohammadReza Khanmohammadi-99222034
+# Hasan Roknabadi-99222042
+# MohammadReza Khanmohammadi-99222034
   
 
 
